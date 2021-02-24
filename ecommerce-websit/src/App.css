@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+.userInterface{
+  border: 5px;
+  margin: 10px;
+  padding: 10px;
+  background-color: rgba(209, 196, 166, 0.226);
+  text-shadow: #282c34;
+}
